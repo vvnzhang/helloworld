@@ -1,1 +1,2 @@
-haha, I am learning how to use github.
+haha, I am learning how to use GITHUB.
+And now I add a line and modify the previous line.
